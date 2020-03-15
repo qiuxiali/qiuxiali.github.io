@@ -6,3 +6,6 @@ themes：主题文件夹
 _config.yml 站点配置文件。很多全局配置都在这个文件中
 package.json 应用数据。可以看出hexo版本信息，以及它所默认或者说依赖的一些组件
 4.GitHub创建个人仓库
+
+
+https://hexo.io/zh-cn/docs/configuration
